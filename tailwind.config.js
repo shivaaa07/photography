@@ -12,8 +12,11 @@ export default {
         sm : "640px",
         md : "768px",
         lg : "960px",
-        xl : "1370px"
+        xxl : "1370px"
       }
+    },
+    fontFamily : {
+      "yantramanav" : ["Yantramanav", "serif"]
     },
     extend: {},
   },
